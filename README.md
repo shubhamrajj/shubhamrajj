@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Shubham Raj — a dedicated Senior Software Development Engineer at Capgemini with strong expertise in full-stack development using .NET, .NET Core, Angular (v15), and MSSQL. I enjoy building scalable and robust web applications and solving complex technical challenges. With experience in cloud-ready solutions and modern web technologies, I’m passionate about delivering high-quality software that drives business value and enhances user experiences. 🚀
+I’m Shubham Raj, a dedicated Senior Software Development Engineer at Capgemini with strong expertise in full-stack development using .NET, .NET Core, Angular (v15), and MSSQL. I enjoy building scalable and robust web applications and solving complex technical challenges. With experience in cloud-ready solutions and modern web technologies, I’m passionate about delivering high-quality software that drives business value and enhances user experiences. 🚀
 
 
 ## 🌐 Socials:
